@@ -6,7 +6,8 @@
 
 #
 
-<p align="center">Graduado de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília (UNISANTA), Pós-Graduando em CiberSegurança. Atualmente trabalho com Suporte Técnico e Infraestrutura mas estou voltando aos estudos em Front-End com HTML, CSS, JS e React. Também tenho diversos cursos de Infra, Segurança, Dados e Dev que você pode verificar direitinho vendo meu Perfil no LinkedIn no botão abaixo! <p></p>
+<p align="center">Graduado de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília (UNISANTA), Pós-Graduando em CiberSegurança. Atualmente trabalho com Suporte Técnico e Infraestrutura mas estou voltando aos estudos em Front-End com HTML, CSS, JS e React. Também tenho diversos cursos de Infra, Segurança, Dados e Dev que você pode verificar direitinho vendo meu Perfil no LinkedIn no botão abaixo!
+  
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
